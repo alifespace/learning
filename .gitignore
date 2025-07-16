@@ -1,2 +1,5 @@
 .venv/
 test/
+data/
+python-learning/advance/gpu/__pycache__/
+.gitignore
