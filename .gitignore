@@ -1,12 +1,11 @@
 .idea/
 .venv/
 test/
-data/
+datasets/
 python-learning/basic/fake_test.parquet/
 python-learning/advance/gpu/__pycache__/
 .gitignore
 .env
-python-learning/advance/cloudflare/test_200MB.dat
+datasets/test_200MB.dat
 python-learning/basic/test_200MB.dat
-my_sample_data.csv
 python-learning/basic/fake_test.csv

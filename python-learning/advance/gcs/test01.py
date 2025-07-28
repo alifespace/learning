@@ -16,7 +16,7 @@ def upload_directory_to_gcs(
         bucket_name (str): 目标存储桶的名称。
         source_directory (str): 要上传的本地目录的路径。
         destination_blob_prefix (str): GCS中的目标“文件夹”前缀。
-                                       例如 'datasets/my-parquet-data'。
+                                       例如 'datasets/my-parquet-datasets'。
         project_id (str, optional): Google Cloud 项目ID。
                                     如果通过 ADC 或环境变量已配置，可不填。
     """
