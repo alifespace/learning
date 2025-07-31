@@ -3,9 +3,9 @@
 test/
 datasets/
 python-learning/basic/fake_test.parquet/
-python-learning/advance/gpu/__pycache__/
+**/__pycache__/
+py[cod]
 .gitignore
 .env
-datasets/test_200MB.dat
 python-learning/basic/test_200MB.dat
 python-learning/basic/fake_test.csv
