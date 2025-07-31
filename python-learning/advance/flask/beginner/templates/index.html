@@ -9,5 +9,10 @@
         <p>
             {{movies | length}} titles
         </p>
+        <ul>
+            {% for movie in movies %}
+            <li>{{movie.title}} - {{movie.year}}</li>
+            {% endfor %}
+        </ul>
     </body>
 </html>
